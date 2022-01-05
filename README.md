@@ -16,7 +16,7 @@ This is our final Project for the "Python for Data Analysis" course. With **Hugo
   <img width="460" height="250" src="https://vl-media.fr/wp-content/uploads/2017/10/Good-news-750x400.jpg">
 </p>
 
-There are 39797 instances and 61 attributes (58 predictive attributes, 2 non-predictive, and 1 goal field) in the database. The articles were published by [Mashable](www.mashable.com) and their content as the rights to reproduce it belongs to them. Hence, this dataset does not share the original content but some statistics associated with it. The original content be publicly accessed and retrieved using the provided urls.
+There are **39797 instances and 61 attributes** (58 predictive attributes, 2 non-predictive, and 1 goal field) in the database. The articles were published by [Mashable](www.mashable.com) and their content as the rights to reproduce it belongs to them. Hence, this dataset does not share the original content but some statistics associated with it. The original content be publicly accessed and retrieved using the provided urls.
 
 ---
 
